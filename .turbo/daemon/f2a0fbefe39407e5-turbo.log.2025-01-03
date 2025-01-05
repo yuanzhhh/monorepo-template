@@ -1,0 +1,39 @@
+2025-01-03T10:27:22.929429Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/1.cookie"), AnchoredSystemPathBuf(".turbo/cookies/.turbo-cookie")}
+2025-01-03T10:27:22.929439Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-03T10:27:23.529918Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/package.json"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad")}
+2025-01-03T10:27:23.529928Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/demo"), path: AnchoredSystemPathBuf("apps/demo") }}))
+2025-01-03T10:27:23.630393Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/chunk-XM4ZE32A.js.map"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/chunk-X7GEHZVV.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react-dom.js.map"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react_jsx-runtime.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/chunk-X7GEHZVV.js.map"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react_jsx-dev-runtime.js.map"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react-dom.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react-dom_client.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react.js.map"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/chunk-XM4ZE32A.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react_jsx-dev-runtime.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react_jsx-runtime.js.map"), AnchoredSystemPathBuf("packages/sdk/dist/index.js"), AnchoredSystemPathBuf("packages/sdk/dist/index.mjs"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react.js"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/react-dom_client.js.map")}
+2025-01-03T10:27:23.630406Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/demo"), path: AnchoredSystemPathBuf("apps/demo") }, WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T10:27:24.230261Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/dist/index.d.ts"), AnchoredSystemPathBuf("packages/sdk/dist/index.d.mts")}
+2025-01-03T10:27:24.230273Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T10:27:24.230292Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-03T10:27:24.629392Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/node_modules/.package-lock.json"), AnchoredSystemPathBuf("packages/sdk/package-lock.json")}
+2025-01-03T10:27:24.629401Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T10:27:27.630828Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad/_metadata.json"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps"), AnchoredSystemPathBuf("apps/demo/node_modules/.vite/deps_temp_4e7012ad")}
+2025-01-03T10:27:27.630842Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/demo"), path: AnchoredSystemPathBuf("apps/demo") }}))
+2025-01-03T10:30:32.329367Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json")}
+2025-01-03T10:30:32.329463Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T10:30:32.367771Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-03T10:30:32.430647Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json"), AnchoredSystemPathBuf("packages/sdk/node_modules/.package-lock.json")}
+2025-01-03T10:30:32.430669Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T10:30:32.430708Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-03T10:40:40.933039Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:40:40.933853Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T10:41:38.915294Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:41:38.915506Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T10:42:41.414771Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:42:41.414867Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T10:42:43.014365Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:42:43.014390Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T10:49:28.813322Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:49:28.813426Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T10:49:30.413003Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("turbo.json")}
+2025-01-03T10:49:30.413050Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(All)
+2025-01-03T11:03:50.444495Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/cookies/2.cookie")}
+2025-01-03T11:03:50.444512Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-03T11:03:51.144874Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/dist/index.js"), AnchoredSystemPathBuf("packages/sdk/dist/index.mjs")}
+2025-01-03T11:03:51.144883Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T11:03:51.144919Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-03T11:03:51.544268Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/dist/index.d.mts"), AnchoredSystemPathBuf("packages/sdk/dist/index.d.ts")}
+2025-01-03T11:03:51.544276Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-03T11:03:51.544285Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun

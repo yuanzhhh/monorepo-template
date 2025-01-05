@@ -1,0 +1,46 @@
+2025-01-05T09:48:43.916268Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/demo/package.json")}
+2025-01-05T09:48:43.917074Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/demo"), path: AnchoredSystemPathBuf("apps/demo") }}))
+2025-01-05T09:48:43.948560Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T09:48:44.010493Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".turbo/daemon/f2a0fbefe39407e5-turbo.log.2025-01-05"), AnchoredSystemPathBuf(".turbo/daemon/f2a0fbefe39407e5-turbo.log.2025-01-03")}
+2025-01-05T09:48:44.010512Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T11:58:11.334345Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json"), AnchoredSystemPathBuf("packages/sdk/node_modules/.package-lock.json")}
+2025-01-05T11:58:11.335323Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-05T11:58:11.342716Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T11:58:34.615881Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("apps/demo/package.json")}
+2025-01-05T11:58:34.615917Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/demo"), path: AnchoredSystemPathBuf("apps/demo") }}))
+2025-01-05T11:58:34.633349Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T12:01:41.217147Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("reademe.md")}
+2025-01-05T12:01:41.217198Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:01:45.516628Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("reademe.md")}
+2025-01-05T12:01:45.516646Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:01:45.716941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("reademe.md")}
+2025-01-05T12:01:45.716962Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:01:48.516273Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json")}
+2025-01-05T12:01:48.516292Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-05T12:01:48.563801Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T12:01:48.617064Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json"), AnchoredSystemPathBuf("packages/sdk/node_modules/.package-lock.json")}
+2025-01-05T12:01:48.617085Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-05T12:01:48.617121Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T12:01:55.717041Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("READEME.md"), AnchoredSystemPathBuf("reademe.md")}
+2025-01-05T12:01:55.717059Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:03:15.923255Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:03:15.923322Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:03:24.418074Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:03:24.418103Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:04:12.319889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf("packages/sdk/package-lock.json"), AnchoredSystemPathBuf("packages/sdk/node_modules/.package-lock.json")}
+2025-01-05T12:04:12.319927Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Other("@gspt/sdk"), path: AnchoredSystemPathBuf("packages/sdk") }}))
+2025-01-05T12:04:12.340626Z  WARN turborepo_lib::package_changes_watcher: hashes are the same, no need to rerun
+2025-01-05T12:04:30.327110Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:04:30.327129Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:04:42.429001Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:04:42.429020Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:05:07.033687Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:05:07.033707Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:05:27.633941Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:05:27.633960Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:06:21.433889Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:06:21.433911Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:06:55.733105Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:06:55.733125Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
+2025-01-05T12:06:56.634453Z  WARN turborepo_lib::package_changes_watcher: changed_files: {AnchoredSystemPathBuf(".gitignore")}
+2025-01-05T12:06:56.634471Z  WARN turborepo_lib::package_changes_watcher: changed_packages: Ok(Some({WorkspacePackage { name: Root, path: AnchoredSystemPathBuf("") }}))
